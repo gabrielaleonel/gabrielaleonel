@@ -1,6 +1,7 @@
 
 <div align="center">
 
+
 # 🔮 GABRIELA LEONEL
 <div align="center">
 <img src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif" width="480" alt="coding gif"/>
