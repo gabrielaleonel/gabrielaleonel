@@ -58,27 +58,8 @@ Estudante de **Engenharia de Software**, formada em **Biblioteconomia**, com est
 ![GRC](https://img.shields.io/badge/GRC-4A1A7B?style=flat-square&logo=shieldsdotio&logoColor=C77DFF)
 ![Redes](https://img.shields.io/badge/TCP/IP_•_DNS_•_DHCP-4A1A7B?style=flat-square&logo=cisco&logoColor=C77DFF)
 
-**Low-Code & Plataformas**
-
-![GeneXus](https://img.shields.io/badge/GeneXus-1A0533?style=flat-square&logo=code&logoColor=C77DFF)
-![WorkWithPlus](https://img.shields.io/badge/WorkWithPlus-1A0533?style=flat-square&logo=layers&logoColor=C77DFF)
-![ERP](https://img.shields.io/badge/ERP_Educacional-1A0533?style=flat-square&logo=databricks&logoColor=C77DFF)
-
 ---
 
----
-
-## 🎓 Formação Acadêmica
-
-| Curso | Instituição | Período |
-|---|---|---|
-| 🔭 Engenharia de Software | Anhanguera | Jun/2025 – Jun/2029 |
-| 🛡️ Cibersegurança | RNP | Set/2025 – em andamento |
-| 💡 Pós-grad. em ADS | Anhanguera | Set/2025 – Jan/2026 |
-| 💡 Pós-grad. em Desenvolvimento Web Full Stack | Anhanguera | Set/2025 – Jan/2026 |
-| 📖 Biblioteconomia | Centro Universitário Assunção | Jan/2018 – Jan/2021 |
-
----
 
 ## 🏅 Certificações
 
