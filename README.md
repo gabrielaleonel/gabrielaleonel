@@ -19,8 +19,6 @@
 
 ---
 
-## 👾 `$ whoami`
-
 ```bash
 Nome    : Gabriela Leonel
 Local   : São Paulo, SP — Brasil
