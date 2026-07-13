@@ -68,7 +68,7 @@ Estudante de **Engenharia de Software**, formada em **Biblioteconomia**, com est
 - ✅ Nivelamento
 - ✅ Básico
 - ✅ Fundamental
-- 🔄 Trilha atual: **DevOps / DevSecOps**
+- ✅ Especialização: **DevOps / DevSecOps**
 
 **Conhecimentos adquiridos:**
 `Redes` `Windows` `Linux` `Cloud Security` `Criptografia` `GRC` `Ameaças & Vulnerabilidades` `Desenvolvimento Seguro` `Resposta a Incidentes`
