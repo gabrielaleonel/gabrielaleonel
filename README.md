@@ -83,7 +83,7 @@ Estudante de **Engenharia de Software**, formada em **Biblioteconomia**, com est
  
 ## 🌌 Projetos em Destaque
  
-| 🔮 [vagabot](https://github.com/gabrielaleonel/vagabot) | 🔮 [Quadrantes](https://github.com/gabrielaleonel/Quadrantes) |
+| 🔮 [Controle de Válidade]([https://github.com/gabrielaleonel/vagabot](https://github.com/gabrielaleonel/Controle-de-validade)) | 🔮 [Quadrantes](https://github.com/gabrielaleonel/Quadrantes) |
 |---|---|
 | Acesse o repositório → | Acesse o repositório → |
  
