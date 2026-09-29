@@ -22,7 +22,7 @@
 ```bash
 Nome    : Gabriela Leonel
 Local   : São Paulo, SP — Brasil
-Curso   : Engenharia de Software @ Anhanguera (2025–2029)
+Curso   : Engenharia de Software @ Anhanguera (2025–2029) Fundamentos de nuvem 1 e 2 @ Escola da Nuvem
 Foco    : TI | DevSecOps | Segurança da Informação | Cloud | Dev
 Status  : estudando... sempre 🔮
 ```
